@@ -1,2 +1,6 @@
 # Python
-Some of my sample Python codes developed for solving various tasks
+### The following considerations were given:
+
+- **Corner Cases and Edge Cases**
+- **Time Complexity: O(N)**
+- **Space Complexity: O(N)**
